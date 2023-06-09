@@ -278,13 +278,13 @@ p {
    #header .main-title {
    width: 100%;
    }
-}
 
-@media(max-width: 1000px) {
    .section-description-huddle {
       width: 100%;
    }
+}
 
+@media(max-width: 1000px) {
    #footer {
       padding: 10em 3em 4em 3em;
    }
