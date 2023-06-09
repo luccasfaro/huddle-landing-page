@@ -316,6 +316,7 @@ p {
    #header {
       padding: 1.5em;
       margin-bottom: 0;
+      background-image: url(../images/bg-hero-mobile.svg);
    }
    
    .description-header h1 {
