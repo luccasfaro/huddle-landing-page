@@ -134,6 +134,7 @@ p {
 
 .section-description-text p {
    font-size: 1.1em;
+   color: var(--grayish-blue);
 }
 
 .section-description-huddle img {
